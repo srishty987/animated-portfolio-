@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🎨 NoteGPT – Animated Portfolio Website
 
-## Getting Started
+A modern and visually engaging **portfolio website** built with **Next.js**, **Framer Motion**, and **Tailwind CSS**.  
+It features elegant animations, smooth page transitions, and a responsive design — perfect for showcasing creative projects with style and motion.
 
-First, run the development server:
+---
+
+## 🚀 Features
+
+- ⚡ **Next.js 14** – Fast, SEO-friendly, and optimized.  
+- 🎬 **Framer Motion** – Smooth animations and page transitions.  
+- 💡 **Tailwind CSS** – Clean, responsive, and utility-first styling.  
+- 🧠 **Dynamic Sections** – About, Skills, Experience, Portfolio & Contact.  
+- ✉️ **Functional Contact Form** – Sends messages directly from your site.  
+- 📱 **Fully Responsive** – Looks great on all devices.  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, Next.js, Tailwind CSS  
+- **Animations:** Framer Motion  
+- **Deployment:** Vercel / Hostinger  
+
+---
+
+## 📦 Installation
 
 ```bash
+# Clone the repository
+git clone https://github.com/srishty987/NoteGPT-Portfolio.git
+
+# Navigate into the folder
+cd NoteGPT-Portfolio
+
+# Install dependencies
+npm install
+
+# Run the development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
